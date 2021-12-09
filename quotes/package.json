@@ -1,0 +1,23 @@
+{
+  "name": "motivational-quotes",
+  "version": "1.0.0",
+  "description": "This is a small website to show insprational quotes with the author name.",
+  "main": "quotes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kr-Shanu/inspirational_quotes.git"
+  },
+  "author": "Kumar Shanu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kr-Shanu/inspirational_quotes/issues"
+  },
+  "homepage": "https://github.com/Kr-Shanu/inspirational_quotes#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "inspirational-quotes": "^2.0.1"
+  }
+}
